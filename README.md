@@ -3,6 +3,8 @@
 
 Free, open source tool for spamming POST-requests for HTTP-server in means of stress testing.
 
+<b>Notification: DDoS is a crime when done into other person's or company's computer, server etc without owner's permission. Original developer is not taking responsibility if program is used in such a intent.</b>
+
 ## Upcoming features:
 <ul>
 <li>GET method</li>
